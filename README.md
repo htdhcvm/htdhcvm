@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+🌱 I'm a JavaScript developer
+:man_technologist: I am passionate about Web Dev & I enjoy learning new things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs)
