@@ -3,8 +3,6 @@
 🌱 I'm a JavaScript developer <br/>
 :man_technologist: I am passionate about Web Dev & I enjoy learning new things.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs)
 
 ### My projects
 - [FriendlyMusic](https://github.com/htdhcvm/FriendlyMusic)
@@ -13,6 +11,8 @@
 - [Javascript algorithms](https://github.com/htdhcvm/javascript-algorithms)
 - [Chat](https://github.com/htdhcvm/chat)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs)
 
 
 <!--
