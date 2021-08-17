@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true)
 
 <!--
 **htdhcvm/htdhcvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
