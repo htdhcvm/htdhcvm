@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&hide=contribs,prs)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
