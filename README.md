@@ -1,6 +1,6 @@
 ### Hi 👋
 
-🌱 I'm a JavaScript developer
+🌱 I'm a JavaScript developer <br/>
 :man_technologist: I am passionate about Web Dev & I enjoy learning new things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
