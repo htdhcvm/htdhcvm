@@ -6,13 +6,6 @@
 ### My projects
 
 
-| Name  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
 | Name                    | Link on repository                                                                                          | Link to work site                                          |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | FriendlyMusic           | [repository FriendlyMusic](https://github.com/htdhcvm/FriendlyMusic)                                        | [Link to site FriendlyMusic](http://3.142.120.102)         |
