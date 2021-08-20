@@ -5,11 +5,21 @@
 
 ### My projects
 
--   [FriendlyMusic](https://github.com/htdhcvm/FriendlyMusic)
--   [KinoCritic](https://github.com/htdhcvm/kino-critic)
--   [TypeScript practice OOP](https://github.com/htdhcvm/type-script-design-patterns-solid-practice)
--   [Javascript algorithms](https://github.com/htdhcvm/javascript-algorithms)
--   [Chat](https://github.com/htdhcvm/chat)
+
+| Name  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+| Name                    | Link on repository                                                                               | Link to work site                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| FriendlyMusic           | [FriendlyMusic](https://github.com/htdhcvm/FriendlyMusic)                                        | http://3.142.120.102                  |
+| KinoCritic              | [KinoCritic](https://github.com/htdhcvm/kino-critic)                                             | http://3.133.139.244                  |
+| Chat                    | [Chat](https://github.com/htdhcvm/chat)                                                          | http://chat-htdhcvm.chat-htdhcvm.site |
+| TypeScript practice OOP | [TypeScript practice OOP](https://github.com/htdhcvm/type-script-design-patterns-solid-practice) | -                                     |
+| Javascript algorithms   | [Javascript algorithms](https://github.com/htdhcvm/javascript-algorithms)                        | -                                     |
+
 
 ### Languages and tools
 
