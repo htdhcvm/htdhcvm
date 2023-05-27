@@ -1,19 +1,19 @@
 ### Hi 👋
 
-🌱 I'm a JavaScript developer <br/>
+<!-- 🌱 I'm a JavaScript developer <br/> -->
 :man_technologist: I am passionate about Web Dev & I enjoy learning new things.
 
 ### My projects
 
 
-| Name                    | Link on repository                                                                                          | Link to work site                                          |
+<!-- | Name                    | Link on repository                                                                                          | Link to work site                                          |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | FriendlyMusic           | [repository FriendlyMusic](https://github.com/htdhcvm/FriendlyMusic)                                        | [Link to site FriendlyMusic](http://3.142.120.102)         |
 | KinoCritic              | [repository KinoCritic](https://github.com/htdhcvm/kino-critic)                                             | [Link to site KinoCritic](http://3.133.139.244)            |
 | Chat                    | [repository Chat](https://github.com/htdhcvm/chat)                                                          | [Link to site Chat](http://chat-htdhcvm.chat-htdhcvm.site) |
 | TypeScript practice OOP | [repository TypeScript practice OOP](https://github.com/htdhcvm/type-script-design-patterns-solid-practice) | -                                                          |
 | Javascript algorithms   | [repository Javascript algorithms](https://github.com/htdhcvm/javascript-algorithms)                        | -                                                          |
-
+ -->
 
 
 ### Languages and tools
