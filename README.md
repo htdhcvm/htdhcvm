@@ -16,7 +16,7 @@
  -->
 
 
-### Languages and tools
+<!-- ### Languages and tools
 
 ![javascript](https://github.com/htdhcvm/htdhcvm/blob/main/assets/javascript-icon.png)
 ![nodejs](https://github.com/htdhcvm/htdhcvm/blob/main/assets/nodejs-icon.png)
@@ -24,7 +24,7 @@
 ![react](https://github.com/htdhcvm/htdhcvm/blob/main/assets/react-icon.png)
 ![redux](https://github.com/htdhcvm/htdhcvm/blob/main/assets/redux-icon.png)
 ![postgreSQL](https://github.com/htdhcvm/htdhcvm/blob/main/assets/postgreSQL-icon.png)
-![visualstudiocode](https://github.com/htdhcvm/htdhcvm/blob/main/assets/visualstudiocode-icon.png)
+![visualstudiocode](https://github.com/htdhcvm/htdhcvm/blob/main/assets/visualstudiocode-icon.png) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs) -->
