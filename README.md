@@ -3,7 +3,7 @@
 <!-- 🌱 I'm a JavaScript developer <br/> -->
 :man_technologist: I am passionate about Web Dev & I enjoy learning new things.
 
-### My projects
+<!-- ### My projects -->
 
 
 <!-- | Name                    | Link on repository                                                                                          | Link to work site                                          |
