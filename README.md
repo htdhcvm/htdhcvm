@@ -27,7 +27,7 @@
 ![visualstudiocode](https://github.com/htdhcvm/htdhcvm/blob/main/assets/visualstudiocode-icon.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htdhcvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htdhcvm&show_icons=true&hide=contribs,prs) -->
 
 <!--
 **htdhcvm/htdhcvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
